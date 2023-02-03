@@ -1,0 +1,17 @@
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\bin\Debug\Пирамидальная сортировка.exe.config
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\bin\Debug\Пирамидальная сортировка.exe
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\bin\Debug\Пирамидальная сортировка.pdb
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\bin\Debug\System.Data.SQLite.dll
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\bin\Debug\System.Data.SQLite.xml
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная сортировка.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная сортировка.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная_сортировка.AutForm.resources
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная_сортировка.MainForm.resources
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная_сортировка.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная_сортировка.RegForm.resources
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная сортировка.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная сортировка.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная сортировка.csproj.CopyComplete
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная сортировка.exe
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная сортировка.pdb
+C:\Users\Сергей\Desktop\Пирамидальная сортировка v3\Пирамидальная сортировка\obj\Debug\Пирамидальная_сортировка.Info.resources
